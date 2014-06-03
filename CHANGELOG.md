@@ -1,5 +1,11 @@
 # CocoaPods Core Changelog
 
+## Master
+
+* Add support for test specifications in the podspec DSL.  
+  [Kyle Fuller](https://github.com/kylef)
+  [#142](https://github.com/CocoaPods/Core/pull/142)
+
 ## 0.34.0.rc1
 
 * Add support to specify dependencies per build configuration.
